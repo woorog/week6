@@ -13,5 +13,6 @@ for i in range(tc):
         # 현재 위치의 점수와 현재 위치에서 예상 공부 시간을 뺀 위치의 점수 + 현재 단원의 점수 중 더 큰 값을 선택
         dp[j] = max(dp[j], dp[j - time] + S)
 
+
 # 최대 점수 출력
 print(dp[cost])
