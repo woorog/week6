@@ -1,6 +1,7 @@
 import sys
 from collections import deque
 
+
 tc=int(sys.stdin.readline())
 
 for _ in range(tc):
