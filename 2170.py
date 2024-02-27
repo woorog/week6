@@ -12,9 +12,6 @@ start=lists[0][0]
 end=lists[0][1]
 sum=0
 
-
-
-
 for i in range(tc):
     if i ==0 :
         continue
