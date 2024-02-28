@@ -18,7 +18,6 @@ int main(void) {
     n1 = atoi(arg1);
     n2 = atoi(arg2);
     */
-
     // 11. 10 문제
     // ex) http://13.209.73.157:8000/cgi-bin/adder?first=13&second=5
     sscanf(buf, "first=%d", &n1); // buf에서 %d를 읽어서 n1에 저장

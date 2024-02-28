@@ -17,8 +17,6 @@ P
  webproxy-test/sequential_proxy.c,b\7\b7254f2e57fa3c0561dbef2395425cbc2bacbea2
 I
 webproxy-test/tiny/README,5\6\567431ea34d97193e7be120f64e024b9de132824
-S
-#webproxy-test/tiny/cgi-bin/Makefile,f\c\fccc49ee1a5cb6707089b9e21fe1921ae8d5f2e6
 J
 webproxy-test/tiny/csapp.c,a\9\a9a0569350d91d93a4a17de35cc8e432a32cfb2d
 J
@@ -37,3 +35,13 @@ F
 webproxy-test/Makefile,f\c\fcaf45efcc3dd490da4c585eb68fa9924f9d379a
 9
 	20208f.py,5\8\584e207725a70cf2a76ade5a873c9c5cce652f8c
+7
+2170.py,8\c\8cc9fc9047350a533abcb1660a8e85112c99b8b3
+8
+13398.py,c\6\c6e13621fb92ed6d3c2c94b0f11c97c6486dbb74
+8
+13023.py,1\e\1eb77d05496f90cd6af372f2262b64cc0bc64c96
+7
+1011.py,d\f\dfc6730250c1c89a761fc143ed830e1c02afc22a
+8
+17845.py,1\6\1663c1f93263c412dd8c604995c3abf841beb016
