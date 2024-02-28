@@ -3,8 +3,6 @@ L
 webproxy-test/.gitattributes,8\f\8f605331739f8ebba8d5799475384d84122b5e27
 H
 webproxy-test/.gitignore,5\b\5b736906d523e095ceec4604aa3153554683c932
-R
-"webproxy-test/tiny/cgi-bin/adder.c,f\4\f409e198c7e5ecd035dd200c7f0b81a6bec8c140
 P
  webproxy-test/concurrent_proxy.c,c\2\c298e373777e6e0b658fb6f0985f909c86f3e80a
 J

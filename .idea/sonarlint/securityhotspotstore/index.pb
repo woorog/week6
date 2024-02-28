@@ -17,8 +17,6 @@ P
  webproxy-test/sequential_proxy.c,b\7\b7254f2e57fa3c0561dbef2395425cbc2bacbea2
 I
 webproxy-test/tiny/README,5\6\567431ea34d97193e7be120f64e024b9de132824
-R
-"webproxy-test/tiny/cgi-bin/adder.c,f\4\f409e198c7e5ecd035dd200c7f0b81a6bec8c140
 S
 #webproxy-test/tiny/cgi-bin/Makefile,f\c\fccc49ee1a5cb6707089b9e21fe1921ae8d5f2e6
 J
