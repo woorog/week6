@@ -17,8 +17,6 @@ G
 webproxy-test/driver.sh,f\0\f0f74cd7e49a02b5618bc19055f5d28b7a5270ea
 J
 webproxy-test/free-port.sh,e\3\e3553394ff2b983b67d4c661df291e7029a0853a
-L
-webproxy-test/tiny/home.html,9\9\99611478d9438d14285f285e2e698356062f5800
 K
 webproxy-test/tiny/Makefile,8\4\841946abdce584571294dbe08fff7105907bcf4d
 F
@@ -33,8 +31,6 @@ D
 webproxy-test/README,c\d\cd7b11648321c0788b5aca6d75c2c80be74c6272
 P
  webproxy-test/sequential_proxy.c,b\7\b7254f2e57fa3c0561dbef2395425cbc2bacbea2
-9
-	20208f.py,5\8\584e207725a70cf2a76ade5a873c9c5cce652f8c
 7
 2170.py,8\c\8cc9fc9047350a533abcb1660a8e85112c99b8b3
 8

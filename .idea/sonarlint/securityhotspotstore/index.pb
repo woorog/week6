@@ -23,8 +23,6 @@ J
 webproxy-test/tiny/csapp.h,5\8\587a37f57ec1f8ba0cbcbf144800bfeab117de3d
 K
 webproxy-test/tiny/Makefile,8\4\841946abdce584571294dbe08fff7105907bcf4d
-L
-webproxy-test/tiny/home.html,9\9\99611478d9438d14285f285e2e698356062f5800
 D
 webproxy-test/README,c\d\cd7b11648321c0788b5aca6d75c2c80be74c6272
 E
@@ -33,8 +31,6 @@ E
 webproxy-test/csapp.h,5\b\5be094aee539babd6640f4fb4da83bc43c285991
 F
 webproxy-test/Makefile,f\c\fcaf45efcc3dd490da4c585eb68fa9924f9d379a
-9
-	20208f.py,5\8\584e207725a70cf2a76ade5a873c9c5cce652f8c
 7
 2170.py,8\c\8cc9fc9047350a533abcb1660a8e85112c99b8b3
 8
